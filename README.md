@@ -7,4 +7,5 @@ Coded by [Ehsonjon](https://github.com/icoder-new)
 ### How to play
 
 > pip install pygame
+
 > python main.py
